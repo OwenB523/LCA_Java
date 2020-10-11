@@ -99,4 +99,3 @@ public class LCA_Java
 
     }
 }
-// This code is contributed by Sreenivasulu Rayanki.
